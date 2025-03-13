@@ -11,6 +11,7 @@
 //         newsForm.reset();
 //     }
 
+
 //     function showNotification(message, type = 'success') {
 //         const notification = document.getElementById('notification');
 //         notification.className = `notification ${type}`;
